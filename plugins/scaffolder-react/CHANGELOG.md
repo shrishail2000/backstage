@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder-react
 
+## 3.0.0-next.2
+
+### Patch Changes
+
+- e8c4fb9: Improved screen reader support in the BUI scaffolder form theme: array item controls include the item name in their labels.
+- Updated dependencies
+  - @backstage/ui@0.19.1-next.0
+  - @backstage/plugin-scaffolder-common@2.4.0-next.1
+  - @backstage/core-components@0.18.16-next.1
+  - @backstage/plugin-catalog-react@4.0.0-next.2
+
 ## 3.0.0-next.1
 
 ### Minor Changes
